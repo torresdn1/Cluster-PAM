@@ -6,3 +6,5 @@ El método de PAM es un algoritmo de agrupamiento que divide un conjunto de dato
 Un medoide puede definirse como el dato dentro del grupo cuya disimilaridad media a todos los objetos en el grupo es mínima o como el punto ubicado más al centro de cada uno de los clusters. La clasificación fue realizada con base en una matriz de datos compuesta por la latitud y la longitud de los centroides de cada municipio. 
 
 Estos datos fueron obtenidos a partir de las herramientas de la paquetería `sf` y `cluster` de R. 
+
+![mapa_medoids](https://user-images.githubusercontent.com/47362216/104989234-9bb76a80-59df-11eb-89c5-09b50728ca76.png)
